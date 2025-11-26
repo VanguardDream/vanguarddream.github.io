@@ -2,6 +2,7 @@ title: Bongsub Song
 email: sbs@etri.re.kr
 description: >- # 검색 결과에 표시될 사이트 설명입니다. 키워드를 포함하는 것이 좋습니다.
   Research Portfolio of Bongsub Song, Ph.D. Researcher at ETRI specializing in Robotics, Reinforcement Learning and Field Robotics.
+logo: /assets/profile.jpg
 baseurl: ""
 url: "https://vanguarddream.github.io" 
 twitter_username: # 트위터가 있다면 입력, 없으면 비워두세요
