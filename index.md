@@ -10,6 +10,7 @@ description: Researcher / Ph.D. / Robotics & AI
 Electronics and Telecommunications Research Institute (ETRI)  
 Daegu 42994, South Korea  
 📧 Email: sbs@etri.re.kr
+📞 Phone: +82-53-670-8065 (Office)
 
 ---
 
