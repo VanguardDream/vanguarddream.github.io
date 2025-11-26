@@ -13,6 +13,10 @@ Daegu 42994, South Korea
 📧 Email: sbs@etri.re.kr
 📞 Phone: +82-53-670-8065 (Office)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bongsubsongsbs/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GcgnSJ0AAAAJ&hl=ko)
+[![ETRI](https://img.shields.io/badge/ETRI-Researcher_Profile-orange?style=flat-square&logo=republicofkorea&logoColor=white)](https://ksp.etri.re.kr/ksp/user/b425c056-cfac-45fa-8e4d-fe2be949ca96)
+
 ---
 
 ## 📖 Biography
