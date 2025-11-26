@@ -4,7 +4,7 @@ title: Bongsub Song
 description: Researcher / Ph.D. at ETRI
 ---
 
-# Bongsub Song (송봉섭)
+# Bongsub Song (송봉섭, 宋奉燮)
 
 **Researcher / Ph.D.** Intelligence Robot System Research Section  
 Electronics and Telecommunications Research Institute (ETRI)  
