@@ -10,7 +10,7 @@ keywords: Bongsub Song, 송봉섭, ETRI, Robotics, Reinforcement Learning, Snake
 **Researcher / Ph.D.** Intelligence Robot System Research Section  
 Electronics and Telecommunications Research Institute (ETRI)  
 Daegu 42994, South Korea  
-📧 Email: sbs@etri.re.kr
+📧 Email: sbs"at"etri.re.kr
 📞 Phone: +82-53-670-8065 (Office)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bongsubsongsbs/)
