@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Bongsub Song
-description: Researcher / Ph.D. / Robotics & AI
+title: Bongsub Song - Robotics Researcher at ETRI
+description: Portfolio of Bongsub Song. Ph.D. in Robotics Engineering. Expertise in Reinforcement Learning, Snake Robots, and System Control. Researcher at ETRI.
+keywords: Bongsub Song, 송봉섭, ETRI, Robotics, Reinforcement Learning, Snake Robot, DGIST, Robot Control
 ---
 
 # Bongsub Song (송봉섭)
