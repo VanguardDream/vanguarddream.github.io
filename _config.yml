@@ -1,6 +1,18 @@
-theme: jekyll-theme-minimal
 title: Bongsub Song
-description: Researcher / Ph.D. | Robotics & AI
-logo: /assets/profile.jpg # 여기에 프로필 사진 파일 경로를 넣으세요 (예: /assets/profile.jpg)
-show_downloads: false
-# google_analytics: # 구글 애널리틱스 ID가 있다면 여기에 넣으세요
+email: sbs@etri.re.kr
+description: >- # 검색 결과에 표시될 사이트 설명입니다. 키워드를 포함하는 것이 좋습니다.
+  Research Portfolio of Bongsub Song, Ph.D. Researcher at ETRI specializing in Robotics, Reinforcement Learning and Field Robotics.
+baseurl: ""
+url: "https://vanguarddream.github.io" 
+twitter_username: # 트위터가 있다면 입력, 없으면 비워두세요
+github_username: vanguarddream # 본인 깃허브 아이디
+
+# 테마 설정
+theme: jekyll-theme-minimal
+
+# SEO 및 사이트맵 플러그인 설정
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+google_site_verification: "-dCboUTfMAOeo6VYXqaHfbJfqgpGh468HqSrcIHbHCM"
