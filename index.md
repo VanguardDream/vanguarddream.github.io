@@ -8,7 +8,7 @@ keywords: Bongsub Song, 송봉섭, ETRI, Robotics, Reinforcement Learning, Snake
 # Bongsub Song (송봉섭)
 
 **Researcher / Ph.D.** Intelligence Robot System Research Section  
-Electronics and Telecommunications Research Institute (<span style="color: #0054A6">**ET**</span><span style="color: #E60012">**R**</span><span style="color: #0054A6">**I**</span>)  
+Electronics and Telecommunications Research Institute (<span style="color: #0054A6; font-weight: bold">ET</span><span style="color: #E60012; font-weight: bold">R</span><span style="color: #0054A6; font-weight: bold">I</span>)  
 Daegu 42994, South Korea  
 📧 Email: *sbs*[at]etri[.]re[.]kr
 📞 Phone: +82-53-670-8065 (Office)
@@ -120,7 +120,7 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 
 **[TV Interview] Tech for Good: Robot snakes and tortoises? (CNN, 2025)**
 [▶️ Watch Video on CNN website](https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc)
-<a href="https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc"><img src="/assets/cnn_broadcast.jpg" alt="CNN Video" style="max-width: 500px; width: 100%; height: auto;"></a>
+<a href="https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc"><img src="/assets/cnn_broadcast.jpg" alt="CNN Video" style="max-width: 480px; width: 100%; height: auto;"></a>
 
 **[YouTube] Pengsoo meets real science! (Science Friends, 2022)**
 [![Pengsoo Video](http://img.youtube.com/vi/lzjn8aRny8w/0.jpg)](https://youtu.be/lzjn8aRny8w?si=uAzzzeRROBf0c0Dq&t=403)
