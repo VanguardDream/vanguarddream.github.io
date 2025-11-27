@@ -114,8 +114,8 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 
 **[TV Interview] Tech for Good: Robot snakes and tortoises? (CNN, 2025)**
 * *This video is hosted on CNN.com.*
-* [▶️ Watch Video on CNN website](https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc)  
-  <a href="https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc"><img src="/assets/cnn_broadcast.jpg" alt="CNN Video" style="max-width: 500px; width: 100%; height: auto;"></a>
+[▶️ Watch Video on CNN website](https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc)
+<a href="https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc"><img src="/assets/cnn_broadcast.jpg" alt="CNN Video" style="max-width: 500px; width: 100%; height: auto;"></a>
 
 **[YouTube] Pengsoo meets real science! (Science Friends, 2022)**
 [![Pengsoo Video](http://img.youtube.com/vi/lzjn8aRny8w/0.jpg)](https://youtu.be/lzjn8aRny8w?si=uAzzzeRROBf0c0Dq&t=403)
