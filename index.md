@@ -52,6 +52,12 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 ---
 
 ## 🔬 Research Projects
+* **Development of Safety Robot Technology for Wireless Operation, Detection, and Response in Narrow Spaces**
+    * *Ministry of Trade, Industry and Energy (MOTIE)* | 2022 - 2025
+* **Development of Gripper Systems for High-Mix Production Processes Capable of Robustly Grasping Objects of Various Shapes, Weights, and Stiffness**
+    * *Ministry of Trade, Industry and Energy (MOTIE)* | 2022 - 2024
+* **Development of Control Algorithms for Performance Evaluation and Functional Testing of Sampling Manipulators in Unmanned Ground Vehicles**
+    * *Korea Atomics Energy Research Institute (KAERI)* | 2022 - 2023
 * **Freedom of movement: A drivetrain study for future autonomous mobility**
     * *Hyundai Motor Group* | 2022 - 2023
 * **Development of floating off the ground (OTG) mobility technology for new personal mobility**
@@ -60,35 +66,6 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
     * *Ministry of Trade, Industry and Energy (MOTIE)* | 2019 - 2021
 * **Development of shape-adaptive electro-adhesive gripper for grasping arbitrary shaped objects**
     * *Ministry of Trade, Industry and Energy (MOTIE)* | 2018 - 2019
-
----
-
-## 📺 Media Appearances
-
-### 🎥 Interviews & Broadcasts (Video)
-*(Click the image to watch the video)*
-
-**[TV Interview] Tech for Good: Robot snakes and tortoises? (CNN, 2025)**
-* *This video is hosted on CNN.com.*
-* [▶️ Watch Video on CNN website][![CNN Video](/assets/cnn_broadcast.jpg)](https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc)
-
-**[YouTube] Pengsoo meets real science! (Science Friends, 2022)**
-[![Pengsoo Video](http://img.youtube.com/vi/lzjn8aRny8w/0.jpg)](https://youtu.be/lzjn8aRny8w?si=uAzzzeRROBf0c0Dq&t=403)
-
-**[YouTube] Visiting a place that makes animal robots (Geekble, 2020)**
-[![Geekble Video](http://img.youtube.com/vi/QjqMJL2PRi0/0.jpg)](https://www.youtube.com/watch?v=QjqMJL2PRi0&t=214s)
-
-**[TV Interview] Finding a way in renewable energy (KNN, 2017)**
-[![KNN Video](http://img.youtube.com/vi/EOENpRyTL2I/0.jpg)](https://www.youtube.com/watch?v=EOENpRyTL2I)
-
-**[Live TV Interview] JOB Information Center (WorkTV, 2016)**
-[![WorkTV Video](http://img.youtube.com/vi/dVp8Nwf-1xM/0.jpg)](https://www.youtube.com/watch?v=dVp8Nwf-1xM)
-
-### 📰 Press Releases
-* **[Yonhap News]** President Moon's Visit to Daegu: "Robot Industry is an Opportunity" (Mar 22, 2019)  
-  [🔗 Read Article](https://www.yna.co.kr/view/AKR20190322047300001)
-* **[Joongdo Ilbo]** KAERI deploys robots to inaccessible areas (Apr 20, 2017)  
-  [🔗 Read Article](http://m.joongdo.co.kr/view.php?key=20170420000053078)
 
 ---
 
@@ -127,6 +104,36 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 * **Floating platform** (KR 10-2022-0103072)
 * **Floating Device** (KR 10-2022-0014779)
 * **Snake-Shaped Robot Driving Assistance Unit** (KR 10-2021-0095696)
+
+---
+
+## 📺 Media Appearances
+
+### 🎥 Interviews & Broadcasts (Video)
+*(Click the image to watch the video)*
+
+**[TV Interview] Tech for Good: Robot snakes and tortoises? (CNN, 2025)**
+* *This video is hosted on CNN.com.*
+* [▶️ Watch Video on CNN website](https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc)  
+  <a href="https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc"><img src="/assets/cnn_broadcast.jpg" alt="CNN Video" style="max-width: 500px; width: 100%; height: auto;"></a>
+
+**[YouTube] Pengsoo meets real science! (Science Friends, 2022)**
+[![Pengsoo Video](http://img.youtube.com/vi/lzjn8aRny8w/0.jpg)](https://youtu.be/lzjn8aRny8w?si=uAzzzeRROBf0c0Dq&t=403)
+
+**[YouTube] Visiting a place that makes animal robots (Geekble, 2020)**
+[![Geekble Video](http://img.youtube.com/vi/QjqMJL2PRi0/0.jpg)](https://www.youtube.com/watch?v=QjqMJL2PRi0&t=214s)
+
+**[TV Interview] Finding a way in renewable energy (KNN, 2017)**
+[![KNN Video](http://img.youtube.com/vi/EOENpRyTL2I/0.jpg)](https://www.youtube.com/watch?v=EOENpRyTL2I)
+
+**[Live TV Interview] JOB Information Center (WorkTV, 2016)**
+[![WorkTV Video](http://img.youtube.com/vi/dVp8Nwf-1xM/0.jpg)](https://www.youtube.com/watch?v=dVp8Nwf-1xM)
+
+### 📰 Press Releases
+* **[Yonhap News]** President Moon's Visit to Daegu: "Robot Industry is an Opportunity" (Mar 22, 2019)  
+  [🔗 Read Article](https://www.yna.co.kr/view/AKR20190322047300001)
+* **[Joongdo Ilbo]** KAERI deploys robots to inaccessible areas (Apr 20, 2017)  
+  [🔗 Read Article](http://m.joongdo.co.kr/view.php?key=20170420000053078)
 
 ---
 <small>Last updated: November 2025</small>
