@@ -8,9 +8,9 @@ keywords: Bongsub Song, 송봉섭, ETRI, Robotics, Reinforcement Learning, Snake
 # Bongsub Song (송봉섭)
 
 **Researcher / Ph.D.** Intelligence Robot System Research Section  
-Electronics and Telecommunications Research Institute (ETRI)  
+Electronics and Telecommunications Research Institute (<span style="color: #0054A6">ET</span><span style="color: #E60012">R</span><span style="color: #0054A6">I</span>)  
 Daegu 42994, South Korea  
-📧 Email: sbs"at"etri.re.kr
+📧 Email: *sbs*[at]etri[.]re[.]kr
 📞 Phone: +82-53-670-8065 (Office)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bongsubsongsbs/)
@@ -25,6 +25,8 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 ---
 
 ## 💼 Professional Experiences
+* **Electronics and Telecommunications Research Institut (ETRI)**, Daegu, South Korea
+    * *Intelligence Robot System Research Section. Researcher (full time)* (2025 - )
 * **Korea Atomic Energy Research Institute (KAERI)**, Daejeon, South Korea
     * *KAERI Robot Lab. Intern* (2016 - 2017)
 * **Korea Institute of Ocean Science and Technology (KIOST)**, Ansan, South Korea
@@ -52,6 +54,10 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 ---
 
 ## 🔬 Research Projects
+* **Planning Study on Cost-Effective Precision Grippers Based on Tactile Sensors and Its Applications**
+    * *Electronics and Telecommunications Research Institute (ETRI)* | 2025 - (On going)
+* **Development of Reinforced Embodied Intelligence through Active Interaction in Real-World**
+    * *Ministry of Science and ICT (MSIT)* | 2025 - (On going)
 * **Development of Safety Robot Technology for Wireless Operation, Detection, and Response in Narrow Spaces**
     * *Ministry of Trade, Industry and Energy (MOTIE)* | 2022 - 2025
 * **Development of Gripper Systems for High-Mix Production Processes Capable of Robustly Grasping Objects of Various Shapes, Weights, and Stiffness**
@@ -113,7 +119,6 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 *(Click the image to watch the video)*
 
 **[TV Interview] Tech for Good: Robot snakes and tortoises? (CNN, 2025)**
-* *This video is hosted on CNN.com.*
 [▶️ Watch Video on CNN website](https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc)
 <a href="https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc"><img src="/assets/cnn_broadcast.jpg" alt="CNN Video" style="max-width: 500px; width: 100%; height: auto;"></a>
 
