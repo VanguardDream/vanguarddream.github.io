@@ -8,6 +8,13 @@ url: "https://vanguarddream.github.io"
 twitter_username: # 트위터가 있다면 입력, 없으면 비워두세요
 github_username: vanguarddream # 본인 깃허브 아이디
 
+# 왼쪽 사이드바에 표시할 네비게이션 링크
+sidebar_links:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects
+
 # 테마 설정
 theme: jekyll-theme-minimal
 
