@@ -26,10 +26,13 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 
 ## 💼 Professional Experiences
 * **Electronics and Telecommunications Research Institute (ETRI)**, Daegu, South Korea
+    <a href="https://etri.re.kr/eng/main/main.etri"><img src="/assets/etri.jpg" alt="ETRI Main" style="max-width: 120px; width: 100%; height: auto;"></a>
     * *Intelligence Robot System Research Section. Researcher (full time)* (2025 - )
 * **Korea Atomic Energy Research Institute (KAERI)**, Daejeon, South Korea
+    <a href="https://www.kaeri.re.kr/eng/"><img src="/assets/kaeri.jpg" alt="KAERI Main" style="max-width: 120px; width: 100%; height: auto;"></a>
     * *KAERI Robot Lab. Intern* (2016 - 2017)
 * **Korea Institute of Ocean Science and Technology (KIOST)**, Ansan, South Korea
+    <a href="https://www.kiost.ac.kr/eng.do"><img src="/assets/kiost.jpg" alt="KIOST Main" style="max-width: 120px; width: 100%; height: auto;"></a>
     * *Deep-sea Mineral Resources Research Center, Exploration Intern* (Aug 2012)
         * Location: Pacific KR 5 Deep sea mining site (10°N, 131°W), Honolulu, Hawaii, US
     * *Deep-sea Mineral Resources Research Center, Exploration Intern* (Jan 2012)
@@ -42,7 +45,7 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
     * Thesis: *A Study on Reinforcement Learning-Driven Snake Robot* (Advisor: Prof. Dongwon Yun)
 * **M.E. in Robotics Engineering**, DGIST, South Korea (Feb 2020)
     * Thesis: *A Study on Spent Nuclear Fuel Inspection System and the Methods* (Advisor: Prof. Dongwon Yun)
-* **B.A. in Information and Telecommunication Engineering**, Incheon National University, South Korea (Feb 2018)
+* **B.A. in Information and Telecommunication Engineering**, Incheon National University, South Korea, *Cum laude* (Feb 2018)
 
 ---
 
@@ -119,7 +122,6 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 *(Click the image to watch the video)*
 
 **[TV Interview] Tech for Good: Robot snakes and tortoises? (CNN, 2025)**
-[▶️ Watch Video on CNN website](https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc)
 <a href="https://edition.cnn.com/2025/09/02/world/video/robot-snakes-tortoises-dgist-korea-hnk-spc"><img src="/assets/cnn_broadcast.jpg" alt="CNN Video" style="max-width: 480px; width: 100%; height: auto;"></a>
 
 **[YouTube] Pengsoo meets real science! (Science Friends, 2022)**
