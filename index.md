@@ -26,59 +26,48 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 
 ## 💼 Professional Experiences
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">CI</th>
-      <th align="left">Organization</th>
-      <th align="left">Role / Team</th>
-      <th align="left">Period</th>
-      <th align="left">Location</th>
-      <th align="left">Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://etri.re.kr/eng/main/main.etri">
-          <img src="/assets/etri.jpg" alt="ETRI" style="width: 84px; max-width: 84px; height: auto;">
-        </a>
-      </td>
-      <td><b>Electronics and Telecommunications Research Institute (ETRI)</b></td>
-      <td><i>Intelligent Robot System Research Section · Researcher (Full-time)</i></td>
-      <td>2025 – Present</td>
-      <td>Daegu, South Korea</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.kaeri.re.kr/eng/">
-          <img src="/assets/kaeri.jpg" alt="KAERI" style="width: 84px; max-width: 84px; height: auto;">
-        </a>
-      </td>
-      <td><b>Korea Atomic Energy Research Institute (KAERI)</b></td>
-      <td><i>KAERI Robot Lab · Intern</i></td>
-      <td>2016 – 2017</td>
-      <td>Daejeon, South Korea</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.kiost.ac.kr/eng.do">
-          <img src="/assets/kiost.jpg" alt="KIOST" style="width: 84px; max-width: 84px; height: auto;">
-        </a>
-      </td>
-      <td><b>Korea Institute of Ocean Science and Technology (KIOST)</b></td>
-      <td><i>Deep-sea Mineral Resources Research Center · Exploration Intern</i></td>
-      <td>Jan 2012; Aug 2012</td>
-      <td>Ansan, South Korea</td>
-      <td>
-        Pacific KR 5 (10°N, 131°W): Honolulu, Hawaii, US<br>
-        Mid-Indian Ridge (7°–16°S, 66°–67°E): Port Louis, Mauritius – Colombo, Sri Lanka
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div style="display:flex; gap:16px; align-items:flex-start; margin: 10px 0 18px 0; flex-wrap: wrap;">
+  <div style="flex: 0 0 96px;">
+    <a href="https://etri.re.kr/eng/main/main.etri">
+      <img src="/assets/etri.jpg" alt="ETRI" style="width: 96px; max-width: 96px; height: auto; border-radius: 8px;">
+    </a>
+  </div>
+  <div style="flex: 1 1 280px; min-width: 260px;">
+    <div><b>Electronics and Telecommunications Research Institute (ETRI)</b></div>
+    <div style="margin-top: 2px;"><i>Intelligent Robot System Research Section · Researcher (Full-time)</i></div>
+    <div style="margin-top: 6px; color: #555;">Daegu, South Korea · <b>2025 – Present</b></div>
+  </div>
+</div>
+
+<div style="display:flex; gap:16px; align-items:flex-start; margin: 10px 0 18px 0; flex-wrap: wrap;">
+  <div style="flex: 0 0 96px;">
+    <a href="https://www.kaeri.re.kr/eng/">
+      <img src="/assets/kaeri.jpg" alt="KAERI" style="width: 96px; max-width: 96px; height: auto; border-radius: 8px;">
+    </a>
+  </div>
+  <div style="flex: 1 1 280px; min-width: 260px;">
+    <div><b>Korea Atomic Energy Research Institute (KAERI)</b></div>
+    <div style="margin-top: 2px;"><i>KAERI Robot Lab · Intern</i></div>
+    <div style="margin-top: 6px; color: #555;">Daejeon, South Korea · <b>2016 – 2017</b></div>
+  </div>
+</div>
+
+<div style="display:flex; gap:16px; align-items:flex-start; margin: 10px 0 6px 0; flex-wrap: wrap;">
+  <div style="flex: 0 0 96px;">
+    <a href="https://www.kiost.ac.kr/eng.do">
+      <img src="/assets/kiost.jpg" alt="KIOST" style="width: 96px; max-width: 96px; height: auto; border-radius: 8px;">
+    </a>
+  </div>
+  <div style="flex: 1 1 280px; min-width: 260px;">
+    <div><b>Korea Institute of Ocean Science and Technology (KIOST)</b></div>
+    <div style="margin-top: 2px;"><i>Deep-sea Mineral Resources Research Center · Exploration Intern</i></div>
+    <div style="margin-top: 6px; color: #555;">Ansan, South Korea</div>
+    <ul style="margin: 10px 0 0 18px;">
+      <li><b>Aug 2012</b> — Pacific KR 5 Deep-sea mining site (10°N, 131°W), Honolulu, Hawaii, US</li>
+      <li><b>Jan 2012</b> — Mid-Indian Ridge Deep-sea mining site (7°–16°S, 66°–67°E), Port Louis, Mauritius – Colombo, Sri Lanka</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
