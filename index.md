@@ -25,14 +25,14 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 ---
 
 ## 💼 Professional Experiences
+<a href="https://etri.re.kr/eng/main/main.etri"><img src="/assets/etri.jpg" alt="ETRI Main" style="max-width: 120px; width: 100%; height: auto;"></a>
 * **Electronics and Telecommunications Research Institute (ETRI)**, Daegu, South Korea
-    <a href="https://etri.re.kr/eng/main/main.etri"><img src="/assets/etri.jpg" alt="ETRI Main" style="max-width: 120px; width: 100%; height: auto;"></a>
     * *Intelligent Robot System Research Section. Researcher (full time)* (2025 - )
+<a href="https://www.kaeri.re.kr/eng/"><img src="/assets/kaeri.jpg" alt="KAERI Main" style="max-width: 120px; width: 100%; height: auto;"></a>
 * **Korea Atomic Energy Research Institute (KAERI)**, Daejeon, South Korea
-    <a href="https://www.kaeri.re.kr/eng/"><img src="/assets/kaeri.jpg" alt="KAERI Main" style="max-width: 120px; width: 100%; height: auto;"></a>
     * *KAERI Robot Lab. Intern* (2016 - 2017)
+<a href="https://www.kiost.ac.kr/eng.do"><img src="/assets/kiost.jpg" alt="KIOST Main" style="max-width: 120px; width: 100%; height: auto;"></a>
 * **Korea Institute of Ocean Science and Technology (KIOST)**, Ansan, South Korea
-    <a href="https://www.kiost.ac.kr/eng.do"><img src="/assets/kiost.jpg" alt="KIOST Main" style="max-width: 120px; width: 100%; height: auto;"></a>
     * *Deep-sea Mineral Resources Research Center, Exploration Intern* (Aug 2012)
         * Location: Pacific KR 5 Deep sea mining site (10°N, 131°W), Honolulu, Hawaii, US
     * *Deep-sea Mineral Resources Research Center, Exploration Intern* (Jan 2012)
