@@ -30,7 +30,7 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 <div style="display:flex; gap:16px; align-items:flex-start; margin: 10px 0 18px 0; flex-wrap: wrap;">
   <div style="flex: 0 0 96px;">
     <a href="https://etri.re.kr/eng/main/main.etri">
-      <img src="/assets/etri.jpg" alt="ETRI" style="height: 48px; width: auto; max-width: 96px; border-radius: 8px;">
+      <img src="/assets/etri.jpg" alt="ETRI" style="height: 30px; width: auto; max-width: 96px; border-radius: 4px;">
     </a>
   </div>
   <div style="flex: 1 1 280px; min-width: 260px;">
@@ -43,7 +43,7 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 <div style="display:flex; gap:16px; align-items:flex-start; margin: 10px 0 18px 0; flex-wrap: wrap;">
   <div style="flex: 0 0 96px;">
     <a href="https://www.kaeri.re.kr/eng/">
-      <img src="/assets/kaeri.jpg" alt="KAERI" style="height: 48px; width: auto; max-width: 96px; border-radius: 8px;">
+      <img src="/assets/kaeri.jpg" alt="KAERI" style="height: 48px; width: auto; max-width: 96px; border-radius: 4px;">
     </a>
   </div>
   <div style="flex: 1 1 280px; min-width: 260px;">
@@ -56,7 +56,7 @@ I am a Researcher at **ETRI (Electronics and Telecommunications Research Institu
 <div style="display:flex; gap:16px; align-items:flex-start; margin: 10px 0 6px 0; flex-wrap: wrap;">
   <div style="flex: 0 0 96px;">
     <a href="https://www.kiost.ac.kr/eng.do">
-      <img src="/assets/kiost.jpg" alt="KIOST" style="height: 56px; width: auto; max-width: 96px; border-radius: 8px;">
+      <img src="/assets/kiost.jpg" alt="KIOST" style="height: 56px; width: auto; max-width: 96px; border-radius: 4px;">
     </a>
   </div>
   <div style="flex: 1 1 280px; min-width: 260px;">
