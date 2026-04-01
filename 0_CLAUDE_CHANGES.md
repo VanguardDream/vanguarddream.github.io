@@ -5,6 +5,36 @@
 
 ---
 
+## [2026-04-02] Session 2 — Projects 페이지 카드 그리드 리뉴얼 + 프로젝트 상세 페이지 신규 구축
+
+### 사용자 요청
+
+> `source/` 폴더 하위의 프로젝트 결과물(PDF, PPT, MP4)을 바탕으로 `projects.md` 페이지를  
+> `publications.md`처럼 그림이 보이는 페이지로 업데이트해달라.  
+> 이미지가 아직 없으므로 추후 삽입이 쉽도록 주석으로 이미지 자리를 표시해달라.  
+> 모든 페이지는 한국어가 아닌 영문으로 작성.
+
+### 변경 사항
+
+| 파일 | 동작 | 설명 |
+|------|------|------|
+| `projects.md` | 수정 | 기존 텍스트 목록 → 카드 그리드 레이아웃으로 전면 재작성. 9개 프로젝트 전체 포함, source가 있는 5개에만 상세 페이지 링크 |
+| `projects/electro-adhesive-gripper.md` | 신규 | 전기흡착 그리퍼 상세 페이지 (MOTIE, 2018–2019). 이미지 7개 자리 주석 포함 |
+| `projects/narrow-space-navigation.md` | 신규 | 협소공간 구조로봇 상세 페이지 (MOTIE, 2019–2021). 이미지 8개 자리 주석 포함 |
+| `projects/otg-mobility.md` | 신규 | OTG 모바일플랫폼 상세 페이지 (MOTIE, 2020–2022). 이미지 7개 자리 주석 포함 |
+| `projects/drivetrain-study.md` | 신규 | 이동의자유 드라이브트레인 상세 페이지 (Hyundai, 2022–2023). 이미지 5개 자리 주석 + MP4 embed 주석 포함 |
+| `projects/ugv-sampling.md` | 신규 | 지상시료채취 UGV 매니퓰레이터 상세 페이지 (KAERI, 2022–2023). 이미지 7개 자리 주석 포함 |
+
+### 주요 결정 사항
+
+- source 폴더 내 PDF는 암호 보호로 내용 추출 불가 → 기존 `projects.md` 텍스트 및 `index.md` 내용 기반으로 섹션 구성
+- 이미지 주석 형식: `<!-- TODO: ... -->` 블록 안에 권장 경로, 출처, 실제 img/div HTML을 모두 포함 → 주석 해제만으로 즉시 이미지 표시 가능
+- source가 없는 4개 프로젝트(ETRI 2025, MSIT 2025, MOTIE 2022–2025, MOTIE 2022–2024)는 카드만 표시, 링크 없음
+- `drivetrain-study.md`에는 `애니메이션_최종본.mp4` embed 주석 별도 포함
+- 이미지 권장 경로 패턴: `assets/projects/<project-slug>/`
+
+---
+
 ## [2026-03-31] Session 1 — Publications 탭 구축 및 프로젝트 문서화
 
 ### 사용자 요청
